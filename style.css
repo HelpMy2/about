@@ -1,5 +1,8 @@
 
-body {font-family: "Segoe UI";}
+body {
+  font-family: "Segoe UI";
+  background-color: "404040";
+}
 
 header{
   padding: 15px;
