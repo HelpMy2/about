@@ -39,8 +39,7 @@ footer{
   display: inline-block; 
   border-radius: 50%; 
   overflow: hidden; 
-  width: 10%; 
-  height: 10%;
+  size: 10%; 
 }
 .site-header-text{}
 
