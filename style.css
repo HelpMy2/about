@@ -41,7 +41,9 @@ footer{
   overflow: hidden; 
   size: 10%; 
 }
-.site-header-text{}
+.site-header-text{
+  font-size:20;
+}
 
 .text-box{
   background-color:#02f3e5;
